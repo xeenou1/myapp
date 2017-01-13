@@ -1,0 +1,19 @@
+{
+    "remotePath": "/export/b/y58/59910283/public_html/887371/myapp/",
+    "host": "angsila.cs.ac.th",
+    "username": "59910283",
+    "password": "95289141",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
